@@ -46,10 +46,10 @@ particlesJS("particles-js", {
     },
     "line_linked": {
       "enable": true,
-      "distance": 176.37479644244019,
+      "distance": 150.37479644244019,
       "color": "#ffffff",
-      "opacity": 0.2805962670675185,
-      "width": 1.4430665163472378
+      "opacity": 0.5005962670675185,
+      "width": 1.4530665163472378
     },
     "move": {
       "enable": true,
@@ -88,7 +88,7 @@ particlesJS("particles-js", {
       },
       "bubble": {
         "distance": 400,
-        "size": 40,
+        "size": 60,
         "duration": 2,
         "opacity": 8,
         "speed": 3
