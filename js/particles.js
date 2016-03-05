@@ -11,7 +11,7 @@ particlesJS("particles-js", {
       "value": "random"
     },
     "shape": {
-      "type": "circle",
+      "type": "triangle",
       "stroke": {
         "width": 0,
         "color": "#000000"
