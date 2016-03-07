@@ -726,7 +726,7 @@ body.nav-opened .nav {
     text-decoration: none;
     color: rgba(255,255,255,0.7);
     -webkit-animation: bounce 4s 2s infinite;
-    animation: bounce 4s 2s infinite;
+    animation: bounce 3s 1s infinite;
 }
 
 /* Stop it bouncing and increase contrast when hovered */
