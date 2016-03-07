@@ -721,7 +721,7 @@ body.nav-opened .nav {
     margin-left: -16px;
     width: 34px;
     height: 34px;
-    font-size: 80px;
+    font-size: 100px;
     text-align: center;
     text-decoration: none;
     color: rgba(255,195,33,0.9);
@@ -861,9 +861,9 @@ body.nav-opened .menu-button .word {
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
     margin: 10px 0 10px 0;
-    font-size: 5rem;
+    font-size: 1rem;
     letter-spacing: -1px;
-    font-weight: 700;
+    font-weight: 400;
     font-family: "Open Sans", sans-serif;
     color: #fff;
 }
