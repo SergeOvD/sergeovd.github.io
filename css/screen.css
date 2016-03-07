@@ -774,7 +774,7 @@ body.nav-opened .nav {
     display: block;
     height: 144px;
     width: 144px;
-    opacity: 0.6;
+    opacity: 0.8;
     /*
     border: #bfc8cd 1px solid;
     */
@@ -863,7 +863,7 @@ body.nav-opened .menu-button .word {
     margin: 10px 0 10px 0;
     font-size: 2rem;
     letter-spacing: -1px;
-    font-weight: 400;
+    font-weight: 700;
     font-family: "Open Sans", sans-serif;
     color: #fff;
 }
