@@ -717,8 +717,8 @@ body.nav-opened .nav {
     position: absolute;
     z-index: 100;
     bottom: 50px;
-    left: 50%;
-    margin-left: 0px;
+    left: 45%;
+    margin-left: -16px;
     width: 34px;
     height: 34px;
     font-size: 100px;
@@ -726,7 +726,7 @@ body.nav-opened .nav {
     text-decoration: none;
     color: rgba(255,195,33,0.9);
     -webkit-animation: bounce 4s 2s infinite;
-    animation: bounce 3s 1s infinite;
+    animation: bounce 2s 1s infinite;
 }
 
 /* Stop it bouncing and increase contrast when hovered */
