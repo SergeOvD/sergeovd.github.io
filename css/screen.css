@@ -715,18 +715,18 @@ body.nav-opened .nav {
 .scroll-down {
     display: block;
     position: absolute;
-    z-index: 300;
+    z-index: 100;
     bottom: 45px;
     left: 50%;
     margin-left: -16px;
     width: 34px;
     height: 34px;
-    font-size: 44px;
+    font-size: 100px;
     text-align: center;
     text-decoration: none;
     color: rgba(255,255,255,0.7);
     -webkit-animation: bounce 4s 2s infinite;
-    animation: bounce 4s 2s infinite;
+    animation: bounce 2s 1s infinite;
 }
 
 /* Stop it bouncing and increase contrast when hovered */
