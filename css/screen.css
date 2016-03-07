@@ -717,14 +717,14 @@ body.nav-opened .nav {
     position: absolute;
     z-index: 100;
     bottom: 50px;
-    left: 48%;
+    left: 48.5%;
     margin-left: -16px;
     width: 34px;
     height: 34px;
     font-size: 100px;
     text-align: center;
     text-decoration: none;
-    color: rgba(255,195,33,0.9);
+    color: rgba(255,195,33,1);
     -webkit-animation: bounce 4s 2s infinite;
     animation: bounce 2s 1s infinite;
 }
