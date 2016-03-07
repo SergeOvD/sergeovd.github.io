@@ -715,12 +715,12 @@ body.nav-opened .nav {
 .scroll-down {
     display: block;
     position: absolute;
-    z-index: 100;
+    z-index: 300;
     bottom: 45px;
     left: 50%;
     margin-left: -16px;
-    width: 100px;
-    height: 100px;
+    width: 34px;
+    height: 34px;
     font-size: 44px;
     text-align: center;
     text-decoration: none;
