@@ -862,7 +862,7 @@ body.nav-opened .menu-button .word {
 .page-title {
     margin: 10px 0 10px 0;
     font-size: 1.75rem;
-    letter-spacing: -1px;
+    letter-spacing: 1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
     color: #ffc321;
