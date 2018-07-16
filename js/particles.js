@@ -1,7 +1,7 @@
 particlesJS("particles-js", {
   "particles": {
     "number": {
-      "value": 250,
+      "value": 150,
       "density": {
         "enable": true,
         "value_area": 800
@@ -11,7 +11,7 @@ particlesJS("particles-js", {
       "value": "random"
     },
     "shape": {
-      "type": "triangle",
+      "type": "polygon",
       "stroke": {
         "width": 0,
         "color": "#000000"
