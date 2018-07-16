@@ -11,7 +11,7 @@ particlesJS("particles-js", {
       "value": "random"
     },
     "shape": {
-      "type": "polygon",
+      "type": "triangle",
       "stroke": {
         "width": 0,
         "color": "#000000"
@@ -25,7 +25,7 @@ particlesJS("particles-js", {
       }
     },
     "opacity": {
-      "value": 0.80,
+      "value": 0.90,
       "random": false,
       "anim": {
         "enable": false,
