@@ -82,9 +82,9 @@ particlesJS("particles-js", {
     },
     "modes": {
       "grab": {
-        "distance": 250,
+        "distance": 280,
         "line_linked": {
-          "opacity": 1
+          "opacity": 0.8
         }
       },
       "bubble": {
