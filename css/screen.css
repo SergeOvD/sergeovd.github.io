@@ -1481,7 +1481,7 @@ body:not(.post-template) .post-title {
     line-height: 35px;
     white-space: nowrap;
     border-radius: 3px;
-    background: rgba(0, 0, 0, 0.39);
+    background: rgba(15, 0, 19, 0.65);
     /* transition: all 0.5s ease; */
 }
 .btn-bootstrap-2:hover {
